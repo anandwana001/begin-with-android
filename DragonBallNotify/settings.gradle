@@ -1,0 +1,2 @@
+rootProject.name='DragonBall Notify'
+include ':app'
