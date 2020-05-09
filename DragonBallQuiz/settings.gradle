@@ -1,0 +1,2 @@
+rootProject.name='DragonBall Quiz'
+include ':app'
